@@ -1,7 +1,7 @@
 # grootan_coding_app
 
 # STEP 1:  Click on the following link to open the project.
-#              https://stackblitz.com/@snekhaguna
+#                     https://stackblitz.com/@snekhaguna
 # STEP 2:  Select the project named "snekha-grootan".
 # STEP 3:  Now click on the "Open in New Window" icon which is located on the right top corner of the window.
 # STEP 4:  A new window appears asking the login details of the user.
